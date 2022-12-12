@@ -1,0 +1,9 @@
+[submodule "signal-processing"]
+	path = signal-processing
+	url = https://github.com/ECE-Capstone-2022/signal-processing.git
+[submodule "note-scheduler"]
+	path = note-scheduler
+	url = https://github.com/ECE-Capstone-2022/note-scheduler.git
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/ECE-Capstone-2022/web-app.git
